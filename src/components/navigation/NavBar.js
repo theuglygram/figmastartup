@@ -56,7 +56,7 @@ const LinkHolder = styled.ul`
   align-items: center;
   @media only screen and (max-width: 800px) {
     /* display: none; */
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
     flex-direction: column;
