@@ -61,14 +61,14 @@ const FooterWrapper = styled.div`
       
   grid-template-columns: repeat(2, 1fr);
     place-items: unset;
-     padding: 0 50px;
+   
   }
-  @media only screen and (max-width: 500px){
+  /* @media only screen and (max-width: 500px){
       
   grid-template-columns: 1fr;
     place-items: unset;
      padding: 0 100px;
-  }
+  } */
 }
 `;
 const FingertipsSection = styled.div`
